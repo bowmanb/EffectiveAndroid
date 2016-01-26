@@ -1,0 +1,1 @@
+![Travis CI](https://travis-ci.org/bowmanb/EffectiveAndroid.svg?branch=master)

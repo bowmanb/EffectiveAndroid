@@ -16,7 +16,7 @@ import org.robolectric.util.ActivityController;
 import static org.mockito.Mockito.verify;
 
 @RunWith(RobolectricGradleTestRunner.class)
-@Config(constants = BuildConfig.class, sdk = 21)
+@Config(constants = BuildConfig.class, sdk = 19)
 public class LoremIpsumActivityTest {
 
     @Mock LoremIpsumPresenter mPresenter;

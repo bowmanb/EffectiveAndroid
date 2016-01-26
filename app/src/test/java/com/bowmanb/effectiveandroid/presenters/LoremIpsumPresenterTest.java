@@ -18,7 +18,7 @@ import rx.Observer;
 import static org.mockito.Mockito.verify;
 
 @RunWith(RobolectricGradleTestRunner.class)
-@Config(constants = BuildConfig.class, sdk = 21)
+@Config(constants = BuildConfig.class, sdk = 19)
 public class LoremIpsumPresenterTest {
 
     private static final String LOREM_IPSUM = "Lorem ipsum";
